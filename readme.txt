@@ -11,9 +11,9 @@ Instant Clickbank link shortner, shorterns posts, pages, categories, affiliate l
 == Description ==
 
 This plugin adds ability to instantly shorten any clickbank links, hop links within your post, pages then stores it
-in the database, to make it easier for users to recall and share it with friends and readers, it can also be used to hide your other referral links by simpling puting refli short codes to shorten any external link in post.
+in the database, to make it easier for users to recall and share it with friends and readers, it can also be used to hide your other referral links by puting refli short codes to shorten any external link in post.
 <p>
-To enableand view the Short link of current page or post use the following shortcode on post, page or sidebar widget:
+To enable and view the Short link of current page or post use the following shortcode on post, page or sidebar widget:
 </p>
 <strong>Shortcode:</strong>
 <p>
