@@ -1,5 +1,5 @@
 === Refli Hide Clickbank Links [Official] ===
-Contributors: M.Ali
+Contributors: zinger252
 Tags: hide referrer, hide clickbank,hop link, clickbank short link, short url, short, url, url shorten, shorten url, shortener, url shortener, url shortening, urls, links, tinyurl, twitter, microblogging, refli
 Requires at least: 3.0
 Tested up to: 3.9.1
