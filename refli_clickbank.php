@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Refli Hide Clickbank Links
-Description: Instntly Hide Clickbank links by using ref.li Shortener service to hide referer
+Description: Instantly Hide Clickbank links by using ref.li Shortener service to hide referer
 Version: 1.1
-Author: Mohammad Ali
+Author: alisaleem252
 Author URI: http://thesetemplates.com/
 */
 
