@@ -30,7 +30,7 @@ Example: taking Click Hop Link as extrnal link, then
 <strong>Refli Chrome Extension</strong>
 <p>
 Quickly Shorten any link without leaving site just by clicking the extension, then copy your shortlink
-<a target="_blank" href="http://ref.li/asset/refli-chrome.crx">Download it here</a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/refli-official-link-short/hhkcnkdnhpcnopnddnnffdjapkgdokbj?hl=en">Download it here</a>
 </p>
 
 <p>
